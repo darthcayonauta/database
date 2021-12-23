@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<socma>
+    <section section_id="s">
+        <data>localhost</data>
+    </section>
+    <section section_id="u">
+        <data>claudio</data>
+    </section>
+    <section section_id="c">
+        <data>cayofilo</data>
+    </section>
+    <section section_id="d">
+        <data>test_file</data>
+    </section>
+</socma>
